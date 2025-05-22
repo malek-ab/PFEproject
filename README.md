@@ -4,5 +4,4 @@ Ce projet propose deux microservices Flask pour l'automatisation intelligente de
 
 ---
 
-## 📁 Structure du projet
 
